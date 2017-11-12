@@ -1,0 +1,179 @@
+body{
+	margin: 0px;
+}
+header {
+	background-color: white;
+	width: 100%;
+	height: 60px;
+	
+}
+
+header .judul2{
+	display: inline-block;
+	font-family: Harlow Solid Italic;
+	font-size: 43px;
+	color: #4BBF60;
+	
+}
+
+header .judul1{
+	display: inline-block;
+	font-family: Harlow Solid Italic;
+	font-size: 43px;
+	color: #666666;
+}
+
+header .logo1 img{
+	width:50px;	
+}
+header .logo1{
+	display: inline-block;
+	float: right;
+	margin-right: 30px;
+}
+
+#Masuk{
+
+	width: 100%;
+	height: 40px;
+	background-color: #606062; 
+
+}
+.Search{
+	position: right ;
+	display: inline-block;
+	float: right;
+	margin-right: 2px;
+	
+
+
+}
+.search input{
+	width: 250px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+
+#Masuk .SignIn {
+	float: right;
+	margin-right: 5px;
+	
+	
+}
+#Masuk .SignIn button {
+	width: 100px;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+#Masuk .Signup {
+	float: right;
+	margin-right: 5px;
+	
+}
+#Masuk .Signup button {
+	width: 100px;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+#TombolPilih{
+	width: 100%;
+	height: 40px;
+	background-color: #606062;
+}
+
+.ourpicks {
+	display: inline-block;
+}
+.home {
+	display: inline-block;
+}
+
+#tombolpilih button {
+	margin-top: 10px;
+	background-color: #666666;
+	color: white;
+	border-radius: 10px;
+	width: 100px;
+}
+.home {
+	margin-right: 40px;
+}
+.ourpicks {
+	margin-right: 40px;
+}
+.peringkat {
+	display: inline-block;
+	margin-right: 40px;
+}
+.forum {
+	display: inline-block;
+	margin-right: 40px;
+}
+.gallery{
+	display: inline-block;
+	margin-right: 40px;
+}
+.store{
+	display: inline-block;
+	margin-right: 40px;
+}
+.kalender{
+	display: inline-block;
+	margin-right: 40px;
+}
+.blogs{
+	display: inline-block;
+}
+#cursorjualan{
+	float: left; 	
+}
+#CursorJualan img{
+ width: 20px;
+}
+#kategori{
+	margin-top: 70px;
+	margin-left: 40px;
+	vertical-align: text-top;
+}
+#kategori img{
+	width: 30px;
+	display: inline-block;
+}
+#kategori a{
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 10px;
+}
+#Mans{
+	padding-left: 70px;
+	margin-top: 60px;
+	display: inline;
+	float: left;
+}
+#GambarMans img{
+	width: 100px;
+	margin-left: 60px;
+}
+#GambarMans b{
+	vertical-align: text-bottom;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#Oto{
+	display: inline;
+}
+#GambarOto img{
+	width: 110px;
+	margin-left: 60px;
+}
+#GambarOto b{
+	display: block;
+	vertical-align: text-top;
+	margin-left: 70px;
+	padding-top: 40px;
+
+}

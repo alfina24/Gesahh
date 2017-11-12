@@ -1,0 +1,275 @@
+body{
+	margin: 0px;
+}
+header {
+	background-color: white;
+	width: 100%;
+	height: 60px;
+	
+}
+
+header .judul2{
+	display: inline-block;
+	font-family: Harlow Solid Italic;
+	font-size: 43px;
+	color: #4BBF60;
+	
+}
+
+header .judul1{
+	display: inline-block;
+	font-family: Harlow Solid Italic;
+	font-size: 43px;
+	color: #666666;
+}
+
+header .logo1 img{
+	width:50px;	
+}
+header .logo1{
+	display: inline-block;
+	float: right;
+	margin-right: 30px;
+}
+
+#Masuk{
+
+	width: 100%;
+	height: 40px;
+	background-color: #606062; 
+
+}
+.Search{
+	position: right ;
+	display: inline-block;
+	float: right;
+	margin-right: 2px;
+	
+
+
+}
+.search input{
+	width: 250px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+
+#Masuk .SignIn {
+	float: right;
+	margin-right: 5px;
+	
+	
+}
+#Masuk .SignIn button {
+	width: 100px;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+#Masuk .Signup {
+	float: right;
+	margin-right: 5px;
+	
+}
+#Masuk .Signup button {
+	width: 100px;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 10px;
+}
+
+#TombolPilih{
+	width: 100%;
+	height: 40px;
+	background-color: #606062;
+}
+
+.ourpicks {
+	display: inline-block;
+}
+.home {
+	display: inline-block;
+}
+
+#tombolpilih button {
+	margin-top: 10px;
+	background-color: #666666;
+	color: white;
+	border-radius: 10px;
+	width: 100px;
+}
+.home {
+	margin-right: 40px;
+}
+.ourpicks {
+margin-right: 40px; bisa di jadin satu sama home soalnya atributnya sama
+}
+.peringkat {
+	display: inline-block;
+	margin-right: 40px;
+}
+.forum {
+	display: inline-block;
+	margin-right: 40px;
+}
+.gallery{
+	display: inline-block;
+	margin-right: 40px;
+}
+.store{
+	display: inline-block;
+	margin-right: 40px;
+}
+.store a{
+	color: white;
+}
+.kalender{
+	display: inline-block;
+	margin-right: 40px;
+}
+.blogs{
+	display: inline-block;
+}
+.cursorpojok{
+	
+	float: left;
+	margin-right: 10px;
+}
+#cursorpojok img{
+	width: 20px;
+}
+#Treanding{
+	margin-left: 100px;
+	margin-top: 30px;
+
+}
+#treanding img{
+	width: 40px;
+}
+#treanding b{
+	
+	margin-top: 13px;
+	position: absolute;
+}
+#beritapertama{
+	width: 900px;
+	height: 100px;
+	margin-left: 100px;
+
+}
+#beritapertama img{
+	display: inline-block;
+	width: 290px;
+}
+#beritapertama .isiberita{
+	position: absolute;
+	display: inline-block;
+	width: 290px;
+	height: 160px;
+	border: solid grey 1px;
+	margin-left: 3px;
+}
+
+#beritapertama .isiberita .keterangan{
+font-size: 23px;
+font-family: Times New Roman;
+color: blue;
+	}
+
+	#beritapertama .isiberita .paragraf{
+		font-size: 9px;
+		margin-left: 1px;
+	}
+
+footer {
+	width: 100%;
+	height:50px;
+	background-color: #666666;
+	text-align: center;
+	padding-top: 10px;
+}
+
+footer a{
+	color: white;
+}
+#beritakedua{
+	width: 900px;
+	height: 100px;
+	margin-top: 20px;
+}
+#beritakedua img{
+	display: inline-grid;
+	width: 290px;
+}
+#beritakedua .isiberita2{
+	position: absolute;
+	display: inline-block;
+	width: 290px;
+	height: 143px;
+	border:solid grey 1px;
+	margin-left: 3px;
+
+}
+#beritakedua .isiberita2 .judulberita{
+
+	font-size: 23px;
+	font-family: Times New Roman;
+	color: blue;
+}
+#beritakedua .isiberita2 .paragraf2{
+	font-size: 11px;
+	margin-left: 1px;
+}
+#beritapertama .isiberita .link{
+	margin-top: 10px;
+	margin-left: 3px;
+}
+#beritakedua .isiberita2 .link2{
+	margin-top: 10px;
+	margin-left: 3px;
+}
+#kolomdua {
+	margin-top: 40px;
+	margin-right: 120px;
+}
+#kolomdua img{
+	width: 40px;
+}
+#kolomdua a{
+	margin-top: 10px;
+	font-family: Arial Black;
+	position: absolute;
+}
+#HotFuture{
+	border:solid grey;
+	width: 180px;
+	height: 120px;
+	margin-left: 10px;
+}
+#HotFuture img{
+	width: 160px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+#Hotfuture a{
+	display: inline-block;
+	padding-left: 10px;
+}
+#HotFuture .jenisFuture1{
+
+}
+#HotFuture1{
+	border:solid grey;
+	width: 180px;
+	height: 120px;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+#HotFuture1 img{
+	width: 160px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
